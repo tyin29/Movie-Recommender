@@ -1,0 +1,13 @@
+name: MovieRecommender
+title: MovieRecommender
+username:
+account: 10inxe-tianhong-yin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7865231
+bundleId: 6624151
+url: https://10inxe-tianhong-yin.shinyapps.io/MovieRecommender/
+when: 1670793344.15608
+lastSyncTime: 1670793344.15609
+asMultiple: FALSE
+asStatic: FALSE
